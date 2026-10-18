@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diganthmu43-debug.github.io/Taste-news/sitemap.xml
